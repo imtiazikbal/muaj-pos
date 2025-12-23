@@ -3,8 +3,8 @@
 // app/Http/Middleware/SetSessionConfig.php
 namespace App\Http\Middleware;
 
-use Closure;
 use Config;
+use Closure;
 
 class SetSessionConfig
 {
